@@ -21,6 +21,25 @@ The following **required** functionality is completed:
 
 There were some issues with configuring the button and making sure it was the right type.
 
+## Notes
+
+App Brainstorming
+
+Messages
+* Being able to message people
+* People able to send reactions to messages
+
+Shazam
+* Being able to find the names of songs that are playing
+* Having a library of found songs
+
+Docs
+* Having access to Google Documents across devices
+* Being able to edit Documents easily
+
+App Idea
+* An app idea I have is a calorie and diet tracker. Features include tracking the amount of calories per meal, the calories per day and per week, as well as being able to set goals for number of calories. Additional features could include tracking the nutrients consumed each meal, as well as water intake.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
